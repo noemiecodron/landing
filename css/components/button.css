@@ -1,0 +1,8 @@
+.btn-grey{
+	background-color: darkslategrey;
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: ghostwhite;
+	font-weight: bold;
+	font-family: 'Merriweather', serif;
+}
